@@ -1,0 +1,17 @@
+{
+  "name": "mona",
+  "version": "1.0.0",
+  "description": "ERP and MES for MONAS Pump manufacturing & production system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ERP",
+    "MES",
+    "MONAS",
+    "MONA"
+  ],
+  "author": "Hoemin Lee",
+  "license": "ISC"
+}
